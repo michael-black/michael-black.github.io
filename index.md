@@ -25,8 +25,8 @@ I am originally from the Ozark mountains in northwest Arkansas.
         </div>
 
         <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
+        <a href="../assets/Black_Photo.jpg">
+            <img src="../assets/Black_Photo.jpg"
                   title="Michael Black" alt="Michael Black"/></a>
         </div>
     </div>
