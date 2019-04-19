@@ -19,7 +19,7 @@ I am originally from the Ozark mountains in northwest Arkansas.
 <h4><a name="contact"></a>contact</h4>
 
     <div class="row-fluid">
-        <div class="span5">
+        <div class="span3">
             Michael Black<br/>
             Email: mblack438@gmail.com<br/>
         </div>
