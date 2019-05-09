@@ -6,7 +6,7 @@ description: Michael's resources
 
 
 
-#### <u>Get organized</u>
+#### Professional resources
 [On organizing code](https://www.brown.edu/Research/Shapiro/pdfs/CodeAndData.pdf)
 
 [On writing a research paper](https://www.brown.edu/Research/Shapiro/pdfs/foursteps.pdf)
@@ -14,6 +14,18 @@ description: Michael's resources
 [On writing in general](https://faculty.chicagobooth.edu/john.cochrane/research/papers/phd_paper_writing.pdf)
 
 [On starting your journey with R](https://r4ds.had.co.nz/)
+
+[On surviving an economics PhD](https://static1.squarespace.com/static/55c143d9e4b0cb07521c6d17/t/5b4f409f575d1ff83c2f12d8/1531920545061/PhDGuidebook.pdf)
+
+#### Mental health resources
+You are <i>so</i> valuable, and your CV does not determine your self-worth. 
+If you are struggling with mental health, the following resources may help:
+
+[Read some general information on mental health and grad school](https://www.gograd.org/resources/grad-student-mental-health/)
+
+[Find a therapist](https://www.psychologytoday.com/us/therapists)
+
+[Explore medication options](https://adaa.org/finding-help/treatment/medication) 
 
 
 
