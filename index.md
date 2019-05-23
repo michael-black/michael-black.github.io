@@ -34,6 +34,18 @@ I am originally from the Ozark mountains in northwest Arkansas.
     </div>
 </div>
 
+<div class="container">
+<h4><a name="contact"></a>Some personal data viz</h4>
+    <div class="row-fluid">
+        <div class="span4">
+        <a href="../assets/hf_map.png">
+            <img src="../assets/hf_map.png"
+                  title="Michael Black" alt="Michael Black"/></a>
+        </div>
+    </div>
+</div>
+
+
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
