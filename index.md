@@ -34,6 +34,7 @@ I am originally from the Ozark mountains in northwest Arkansas.
     </div>
 </div>
 
+<!--
 <div class="container">
 <h4><a name="contact"></a>Some personal data viz</h4>
     <div class="row-fluid">
@@ -44,7 +45,7 @@ I am originally from the Ozark mountains in northwest Arkansas.
         </div>
     </div>
 </div>
-
+ -->
 
 <div class="navbar">
   <div class="navbar-inner">
