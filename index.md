@@ -11,7 +11,7 @@ I am a PhD student in the Department of Agricultural Economics at Texas A&M Univ
 Prior to graduate studies, I was a strategy consultant with the Mahindra Group in Mumbai, India, and completed a B.S. degree in natural resource management from Cornell University in Ithaca, New York. 
 I am originally from the Ozark mountains in northwest Arkansas.
 
-[Curriculum Vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+[Curriculum Vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/BlackCV.pdf)<br/>
 
 
 ---
@@ -50,7 +50,7 @@ I am originally from the Ozark mountains in northwest Arkansas.
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/BlackCV.pdf">CV</a></li>
           <li><a href="https://github.com/michael-black">GitHub</a></li>
           <li><a href="https://twitter.com/michae1black">Twitter (@michae1black)</a></li>
       </ul>
