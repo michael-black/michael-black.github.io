@@ -1,14 +1,14 @@
 ---
 layout: frontpage
 title: Michael Black
-description: Michael Black is a PhD candidate at Texas A&M University. 
+description: Michael Black is a PhD candidate at Texas A&M University.
 keywords: Michael Black, economics, resource economics, environmental economics, non-market valuation
 ---
 
-<h4>Welcome!</h4>
+<h4>About</h4>
 
-I am a PhD student in the Department of Agricultural Economics at Texas A&M University, where I specialize in environmental and resource economics. 
-Prior to graduate studies, I was a strategy consultant with the Mahindra Group in Mumbai, India, and completed a B.S. degree in natural resource management from Cornell University in Ithaca, New York. 
+I am a PhD student in the <li><a href="http://agecon.tamu.edu/">Department of Agricultural Economics</a></li> at Texas A&M University, where I specialize in environmental and resource economics. 
+Prior to graduate studies, I was a strategy consultant with the Mahindra Group in Mumbai, India, and completed a B.S. degree in natural resource management from Cornell University in Ithaca, New York.
 I am originally from the Ozark mountains in northwest Arkansas.
 
 [Curriculum Vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/BlackCV.pdf)<br/>
@@ -24,6 +24,9 @@ I am originally from the Ozark mountains in northwest Arkansas.
         <div class="span3">
             Michael Black<br/>
             Email: mblack438@gmail.com<br/>
+            Alt Email: black.michael@tamu.edu<br/>
+            Phone: (479) 871 - 0506<br/>
+            Office: 360 AGLS, Texas A&M University
         </div>
 
         <div class="span4">
@@ -52,7 +55,7 @@ I am originally from the Ozark mountains in northwest Arkansas.
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/BlackCV.pdf">CV</a></li>
           <li><a href="https://github.com/michael-black">GitHub</a></li>
-          <li><a href="https://twitter.com/michae1black">Twitter (@michae1black)</a></li>
+          <li><a href="https://twitter.com/michae1black">Twitter</a></li>
       </ul>
   </div>
 </div>
