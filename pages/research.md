@@ -11,10 +11,12 @@ With Richard Woodward
 *Using a fixed-effect model and a large repeated cross-section, we decompose the within- and between- effects of water quality changes on angler behavior, and elicit a willingness-to-pay for long- and short-term changes in water quality.*
 <br/>
 <br/>
+<br/>
 
 #### [Willingness to pay for improved soil quality characteristics]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
 With Richard Woodward
 *Using a pivoted choice experiment, we elicit willingness-to-pay estimates for changes in manageable soil characteristics for farmers in central Texas.*
+<br/>
 <br/>
 <br/>
 
