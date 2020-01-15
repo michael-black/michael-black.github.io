@@ -5,7 +5,7 @@ description: Michael's Teaching
 ---
 
 #### Course materials
-As of spring 2020, I am the instructor for [AGEC 317: Economic Analysis for Agribusiness Management](https://github.com/econ-by-mb/agec317), taught in the Department of Agricultural Economics at Texas A\&M University. Click on the course name to be taken to the GitHub repo where you can find all of the course materials.
+[AGEC 317: Economic Analysis for Agribusiness Management](https://github.com/econ-by-mb/agec317), Department of Agricultural Economics at Texas A&M University.
 
 <br/>
 <br/>
