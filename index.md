@@ -24,9 +24,9 @@ I am originally from the Ozark mountains in northwest Arkansas.
         <div class="span3">
             Michael Black<br/>
             <a href="mailto:mblack438@gmail.com">mblack438@gmail.com</a><br/>
-            Alt Email: black.michael@tamu.edu<br/>
-            Phone: (479) 871 - 0506<br/>
-            Office: 360 AGLS, Texas A&M University
+            <a href="mailto:black.michael@tamu.edu">black.michael@tamu.edu</a><br/>
+            479.871.0506<br/>
+            360 Agriculture and Life Sciences Building, Texas A&M University
         </div>
 
         <div class="span4">
