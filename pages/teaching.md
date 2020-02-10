@@ -5,16 +5,14 @@ description: Michael's Teaching
 ---
 
 #### Course materials
-[AGEC 317: Economic Analysis for Agribusiness Management](https://github.com/econ-by-mb/agec317), Department of Agricultural Economics at Texas A&M University.
+[AGEC 317: Economic Analysis for Agribusiness Management](https://github.com/econ-by-mb/agec317), Texas A&M University.
 
 <br/>
 <br/>
 <br/>
 
-#### Supplemental materials
-See the [resources](https://michael-black.github.io/pages/resources.html) tab for some helpful documents that I didn't create. As I create supplemental teaching materials, they will appear here. Check back soon!
-
-[Get Wooldridge data]({{ BASE_PATH }}/assets/Wooldridge-Data.html)
+#### Tutorials
+[Wooldridge data: Download in Stata or R and convert to CSV]({{ BASE_PATH }}/assets/Wooldridge-Data.html)
 
 
 
