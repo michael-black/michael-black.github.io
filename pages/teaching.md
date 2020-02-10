@@ -14,6 +14,8 @@ description: Michael's Teaching
 #### Supplemental materials
 See the [resources](https://michael-black.github.io/pages/resources.html) tab for some helpful documents that I didn't create. As I create supplemental teaching materials, they will appear here. Check back soon!
 
+[Get Wooldridge data]({{ BASE_PATH }}/assets/Wooldridge-Data.html)
+
 
 
 
