@@ -88,20 +88,20 @@ h1, h2, h3, h4 {
 
 
 .navbar-inner {
-    min-height:40px;
+    min-height:50px;
     padding-left:20px;
     padding-right:20px;
     background-color:#fafafa;
-    background-image:-moz-linear-gradient(left, #ffd89b, #19547b);
-    background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#ffd89b), to(#19547b));
-    background-image:-webkit-linear-gradient(left, #ffd89b, #19547b);
-    background-image:-o-linear-gradient(left, #ffd89b, #19547b);
-    background-image:linear-gradient(to right, #ffd89b, #19547b);
+    background-image:-moz-linear-gradient(left, #616161, #9bc5c3);
+    background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#616161), to(#9bc5c3));
+    background-image:-webkit-linear-gradient(left, #616161, #9bc5c3);
+    background-image:-o-linear-gradient(left, #616161, #9bc5c3);
+    background-image:linear-gradient(to right, #616161, #9bc5c3);
     background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#707373', endColorstr='#707373', GradientType=0);
-    border:1px solid #707373;
-    -webkit-border-radius:4px;
-    -moz-border-radius:4px;
-    border-radius:4px;
+    border:0px solid #707373;
+    -webkit-border-radius:0px;
+    -moz-border-radius:0px;
+    border-radius:0px;
     -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);
     -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);
     box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);*zoom:1;
