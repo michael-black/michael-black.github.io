@@ -93,7 +93,7 @@ h1, h2, h3, h4 {
     padding-right:20px;
     background-color:#fafafa;
     background-image:-moz-linear-gradient(top, #707373, #707373);
-    background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#707373), to(#707373));
+    background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#ffd89b), to(#19547b));
     background-image:-webkit-linear-gradient(top, #707373, #707373);
     background-image:-o-linear-gradient(top, #707373, #707373);
     background-image:linear-gradient(to bottom, #707373, #707373);
