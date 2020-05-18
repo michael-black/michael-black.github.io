@@ -94,9 +94,9 @@ h1, h2, h3, h4 {
     background-color:#fafafa;
     background-image:-moz-linear-gradient(top, #ffd89b, #19547b);
     background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#ffd89b), to(#19547b));
-    background-image:-webkit-linear-gradient(top, #707373, #707373);
-    background-image:-o-linear-gradient(top, #707373, #707373);
-    background-image:linear-gradient(to bottom, #707373, #707373);
+    background-image:-webkit-linear-gradient(top, #ffd89b, #19547b);
+    background-image:-o-linear-gradient(top, #ffd89b, #19547b);
+    background-image:linear-gradient(to bottom, #ffd89b, #19547b);
     background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#707373', endColorstr='#707373', GradientType=0);
     border:1px solid #707373;
     -webkit-border-radius:4px;
