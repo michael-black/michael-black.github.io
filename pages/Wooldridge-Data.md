@@ -1,11 +1,9 @@
-#### A quick tutorial by [Michael Black](https://michael-black.github.io)
-
-The datasets in the table below are referenced in the [Wooldridge
-undergraduate econometrics
-textbook](https://www.cengage.com/c/introductory-econometrics-a-modern-approach-7e-wooldridge/9781337558860PF/)
-with explanations and models described in-text. The original list of
-data is compiled by Boston College, and can be found
-[here](http://fmwww.bc.edu/ec-p/data/wooldridge/datasets.list.html).
+> The datasets in the table below are referenced in the [Wooldridge
+> undergraduate econometrics
+> textbook](https://www.cengage.com/c/introductory-econometrics-a-modern-approach-7e-wooldridge/9781337558860PF/)
+> with explanations and models described in-text. The original list of
+> data is compiled by Boston College, and can be found
+> [here](http://fmwww.bc.edu/ec-p/data/wooldridge/datasets.list.html).
 
 Download data and export to Excel
 ---------------------------------
