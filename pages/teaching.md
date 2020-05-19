@@ -12,7 +12,7 @@ description: Michael's Teaching
 <br/>
 
 #### Tutorials
-[Wooldridge data: Download in Stata or R and convert to CSV]({{ BASE_PATH }}/assets/Wooldridge-Data.html)
+[Wooldridge data: Download in Stata or R and convert to CSV](http://michael-black.github.io/pages/Wooldridge-Data)
 
 
 
