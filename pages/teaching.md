@@ -11,8 +11,8 @@ description: Michael's Teaching
 <br/>
 <br/>
 
-#### Tutorials
-[Wooldridge data: Download in Stata or R and convert to CSV](http://michael-black.github.io/pages/Wooldridge-Data)
+#### How-To
+[Download Wooldridge data in Stata or R and convert to CSV](http://michael-black.github.io/pages/Wooldridge-Data)
 
 
 
