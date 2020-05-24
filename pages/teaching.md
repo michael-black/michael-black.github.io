@@ -13,7 +13,8 @@ description: Michael's Teaching
 
 #### How-To
 [Download Wooldridge data in Stata or R and convert to CSV](http://michael-black.github.io/pages/Wooldridge-Data)
-[Use R for the first time: importing data and running a linear regression](/Users/michaelblack/Documents/michael-black.github.io/pages/R-for-Regression)
+
+[Use R for the first time: importing data and running a linear regression](http://michael-black.github.io/pages/R-for-Regression)
 
 
 
