@@ -1,6 +1,5 @@
 What is R?
 ----------
-
 R is a programming language used for statistical analysis. Think of it
 like a much more powerful version of Excel, with all of the nice
 user-interface stripped away. Instead of putting numbers into cells, we
