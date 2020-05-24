@@ -42,10 +42,10 @@ Once you have downloaded R and RStudio, you are ready to open R for the
 first time. Let’s start by opening **R**.
 
 On your computer, you will have two new R programs:
-<img src="/Users/michaelblack/Documents/michael-black.github.io/assets/rlogos.png" id="id" class="class" style="width:50.0%;height:50.0%" />
+<img src="http://michael-black.github.io/assets/rlogos.png" id="id" class="class" style="width:50.0%;height:50.0%" />
 
 First, open R (the program simply called “R”). You will see:
-<img src="/Users/michaelblack/Documents/michael-black.github.io/assets/rconsole.png" id="id" class="class" style="width:50.0%;height:50.0%" />
+<img src="http://michael-black.github.io/assets/rconsole.png" id="id" class="class" style="width:50.0%;height:50.0%" />
 
 This is the **console**: a window where you type commands, and the
 computer responds. Try typing the following into the console, then hit
@@ -68,7 +68,7 @@ invisible until you explicitly ask R to show you. For that reason, we
 are going to use **RStudio**, where all of the above is visible at once.
 Now, open the **RStudio** program. You should see the following (without
 the red numbers):
-<img src="/Users/michaelblack/Documents/michael-black.github.io/assets/rstud.png" id="id" class="class" style="width:90.0%;height:90.0%" />
+<img src="http://michael-black.github.io/assets/rstud.png" id="id" class="class" style="width:90.0%;height:90.0%" />
 
 The **RStudio** environment is split into four panes, labelled in the
 image above. Let’s explore each:
