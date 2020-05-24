@@ -1,3 +1,6 @@
+% Using R for the first time
+
+
 What is R?
 ----------
 R is a programming language used for statistical analysis. Think of it
