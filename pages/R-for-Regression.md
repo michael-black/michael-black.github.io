@@ -312,11 +312,11 @@ Estimate your model
 Once you have imported and cleaned your data, you are ready to estimate
 a model. We will start with one of the first regressions we ran in AGEC
 317:
-*m**p**g*<sub>*i*</sub> = *β*<sub>0</sub> + *β*<sub>1</sub>*w**e**i**g**h**t*<sub>*i*</sub> + *β*<sub>2</sub>*c**y**l*<sub>*i*</sub> + *β*<sub>3</sub>*d**i**s**p*<sub>*i*</sub> + *ε*<sub>*i*</sub>
-where *m**p**g*<sub>*i*</sub> is the fuel efficiency of car *i* in
-miles-per-gallon, *w**e**i**g**h**t*<sub>*i*</sub> is the weight in
-thousands of pounds, *c**y**l*<sub>*i*</sub> is the number of cylinders
-in the engine, and *d**i**s**p*<sub>*i*</sub> is the engine size in
+$$mpg_i = \beta_0 + \beta_1weight_i + \beta_2cyl_i + \beta_3 disp_i + \varepsilon_i$$
+where $mpg_1$ is the fuel efficiency of car *i* in
+miles-per-gallon, $weight_i$ is the weight in
+thousands of pounds, $cyl_i$ is the number of cylinders
+in the engine, and $disp_i$ is the engine size in
 cubic inches. We are interested in the partial effects of weight, number
 of cylinders, and engine size on a vehicle’s fuel efficiency.
 
