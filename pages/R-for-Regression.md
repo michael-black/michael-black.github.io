@@ -1,8 +1,10 @@
-% Using R for the first time
-
+> This how-to is for beginners in R. For the next step, try exploring
+> the online book [R for Data Science](https://r4ds.had.co.nz) by
+> Garrett Grolemund and Hadley Wickham
 
 What is R?
 ----------
+
 R is a programming language used for statistical analysis. Think of it
 like a much more powerful version of Excel, with all of the nice
 user-interface stripped away. Instead of putting numbers into cells, we
