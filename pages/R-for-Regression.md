@@ -312,7 +312,7 @@ Estimate your model
 Once you have imported and cleaned your data, you are ready to estimate
 a model. We will start with one of the first regressions we ran in AGEC
 317:
-$$mpg_i = \beta_0 + \beta_1weight_i + \beta_2cyl_i + \beta_3 disp_i + \varepsilon_i$$
+`$$mpg_i = \beta_0 + \beta_1weight_i + \beta_2cyl_i + \beta_3 disp_i + \varepsilon_i$$`
 where $mpg_1$ is the fuel efficiency of car *i* in
 miles-per-gallon, $weight_i$ is the weight in
 thousands of pounds, $cyl_i$ is the number of cylinders
@@ -340,10 +340,10 @@ After writing the regression formula, put a comma, then
     cars <- mtcars
     lm(mpg ~ wt + cyl + disp, data = cars)
 
-    ## 
+    ##
     ## Call:
     ## lm(formula = mpg ~ wt + cyl + disp, data = cars)
-    ## 
+    ##
     ## Coefficients:
     ## (Intercept)           wt          cyl         disp  
     ##   41.107678    -3.635677    -1.784944     0.007473
@@ -367,25 +367,25 @@ summarise the object!
     regression <- lm(mpg ~ wt + cyl + disp, data = cars)
     summary(regression)
 
-    ## 
+    ##
     ## Call:
     ## lm(formula = mpg ~ wt + cyl + disp, data = cars)
-    ## 
+    ##
     ## Residuals:
-    ##     Min      1Q  Median      3Q     Max 
-    ## -4.4035 -1.4028 -0.4955  1.3387  6.0722 
-    ## 
+    ##     Min      1Q  Median      3Q     Max
+    ## -4.4035 -1.4028 -0.4955  1.3387  6.0722
+    ##
     ## Coefficients:
     ##              Estimate Std. Error t value Pr(>|t|)    
     ## (Intercept) 41.107678   2.842426  14.462 1.62e-14 ***
-    ## wt          -3.635677   1.040138  -3.495  0.00160 ** 
-    ## cyl         -1.784944   0.607110  -2.940  0.00651 ** 
+    ## wt          -3.635677   1.040138  -3.495  0.00160 **
+    ## cyl         -1.784944   0.607110  -2.940  0.00651 **
     ## disp         0.007473   0.011845   0.631  0.53322    
     ## ---
     ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
-    ## 
+    ##
     ## Residual standard error: 2.595 on 28 degrees of freedom
-    ## Multiple R-squared:  0.8326, Adjusted R-squared:  0.8147 
+    ## Multiple R-squared:  0.8326, Adjusted R-squared:  0.8147
     ## F-statistic: 46.42 on 3 and 28 DF,  p-value: 5.399e-11
 
 There you go! We see the model fit information at the bottom of the
