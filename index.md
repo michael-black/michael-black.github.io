@@ -55,7 +55,6 @@ I am originally from the Ozark mountains in northwest Arkansas.
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/BlackCV.pdf">CV</a></li>
           <li><a href="https://github.com/michael-black">GitHub</a></li>
-          <li><a href="https://twitter.com/michae1black">Twitter</a></li>
       </ul>
   </div>
 </div>
