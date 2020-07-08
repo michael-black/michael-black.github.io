@@ -7,11 +7,12 @@ keywords: Michael Black, economics, resource economics, environmental economics,
 
 <h4>About</h4>
 
-I am a Ph.D. student in the <a href="http://agecon.tamu.edu/">Department of Agricultural Economics</a> at Texas A&M University, where I specialize in environmental and resource economics.
-Prior to graduate studies, I was a strategy consultant with the Mahindra Group in Mumbai, India, and completed a B.S. degree in natural resource management from Cornell University in Ithaca, New York.
-I am originally from the Ozark mountains in northwest Arkansas.
+I am a Ph.D. student in the Department of Agricultural Economics at Texas A&M University, where I specialize in environmental and resource economics. Prior to graduate studies, I was a strategy consultant with the Mahindra Group in Mumbai, India, and completed a B.S. degree in natural resource management from Cornell University in Ithaca, New York. I am originally from the Ozark mountains in northwest Arkansas.
 
-[Curriculum Vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/BlackCV.pdf)<br/>
+[Curriculum Vitae]({{ BASE_PATH }}/assets/BlackCV.pdf)
+
+[GitHub](https://github.com/michael-black)
+<br/>
 
 
 ---
@@ -50,6 +51,7 @@ I am originally from the Ozark mountains in northwest Arkansas.
 </div>
  -->
 
+<!--
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
@@ -58,3 +60,4 @@ I am originally from the Ozark mountains in northwest Arkansas.
       </ul>
   </div>
 </div>
+-->
