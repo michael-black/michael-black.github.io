@@ -3,6 +3,12 @@ code {
   font-size: 90%;
   color: black;
   background-color: white;
+  background-image:-moz-linear-gradient(left, #fc00ff, #00dbde);
+  background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#fc00ff), to(#00dbde));
+  background-image:-webkit-linear-gradient(left, #fc00ff, #00dbde);
+  background-image:-o-linear-gradient(left, #fc00ff, #00dbde);
+  background-image:linear-gradient(to right, #fc00ff, #00dbde);
+  background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#707373', endColorstr='#707373', GradientType=0);
   border: 0px solid white;
 }
 
