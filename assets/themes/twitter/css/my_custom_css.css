@@ -7,7 +7,7 @@ code {
 }
 
 body {
-  background-image: linear-gradient(to right, red , yellow);
+  background-image: linear-gradient(to right, #abbaab , #ffffff);
 }
 
 a code {
@@ -96,11 +96,11 @@ h1, h2, h3, h4 {
     padding-left:20px;
     padding-right:20px;
     background-color:#fafafa;
-    background-image:-moz-linear-gradient(left, #fc00ff, #00dbde);
-    background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#fc00ff), to(#00dbde));
-    background-image:-webkit-linear-gradient(left, #fc00ff, #00dbde);
-    background-image:-o-linear-gradient(left, #fc00ff, #00dbde);
-    background-image:linear-gradient(to right, #fc00ff, #00dbde);
+    background-image:-moz-linear-gradient(left, #ffffff, #abbaab);
+    background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#abbaab));
+    background-image:-webkit-linear-gradient(left, #ffffff, #abbaab);
+    background-image:-o-linear-gradient(left, #ffffff, #abbaab);
+    background-image:linear-gradient(to right, #ffffff, #abbaab);
     background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#707373', endColorstr='#707373', GradientType=0);
     border:0px solid #707373;
     -webkit-border-radius:0px;
