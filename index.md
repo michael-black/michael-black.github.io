@@ -9,7 +9,8 @@ keywords: Michael Black, economics, resource economics, environmental economics,
 
 I am a Ph.D. student in the Department of Agricultural Economics at Texas A&M University, where I specialize in environmental and resource economics. Prior to graduate studies, I was a strategy consultant with the Mahindra Group in Mumbai, India, and completed a B.S. degree in natural resource management from Cornell University in Ithaca, New York. I am originally from the Ozark mountains in northwest Arkansas.
 
-[Curriculum Vitae]({{ BASE_PATH }}/assets/BlackCV.pdf)
+<!-- [Curriculum Vitae]({{ BASE_PATH }}/assets/BlackCV.pdf) -->
+<!-- [GitHub](https://github.com/michael-black) -->
 
 <a href="../assets/BlackCV.pdf">
     <img src="../pages/icons64/cv.png" width="40" height="40"/></a>
@@ -18,8 +19,6 @@ I am a Ph.D. student in the Department of Agricultural Economics at Texas A&M Un
 <a href="https://twitter.com/michae1black">
     <img src="../pages/icons64/twitter.png" width="40" height="40"/></a>
 
-
-[GitHub](https://github.com/michael-black)
 <br/>
 
 

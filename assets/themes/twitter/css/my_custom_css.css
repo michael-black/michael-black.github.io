@@ -19,7 +19,7 @@ a code {
 }
 
 a {
-    color: #00bf8f;
+    color: #253f94;
 }
 
 a:hover {
@@ -67,7 +67,7 @@ td.right {
 
 
 h1, h2, h3, h4 {
-    color: #FFA17F;
+    color: black;
 }
 
 .danger {
@@ -101,11 +101,11 @@ h1, h2, h3, h4 {
     padding-left:20px;
     padding-right:20px;
     background-color:#fafafa;
-    background-image:-moz-linear-gradient(left, #3A6073, #16222A);
-    background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#3A6073), to(#16222A));
-    background-image:-webkit-linear-gradient(left, #3A6073, #16222A);
-    background-image:-o-linear-gradient(left, #3A6073, #16222A);
-    background-image:linear-gradient(to right, #3A6073, #16222A);
+    background-image:-moz-linear-gradient(left, #232526, #414345);
+    background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#232526), to(#414345));
+    background-image:-webkit-linear-gradient(left, #232526, #414345);
+    background-image:-o-linear-gradient(left, #232526, #414345);
+    background-image:linear-gradient(to right, #232526, #414345);
     background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#707373', endColorstr='#707373', GradientType=0);
     border:0px solid #707373;
     -webkit-border-radius:0px;
