@@ -12,8 +12,7 @@ I am a Ph.D. student in the Department of Agricultural Economics at Texas A&M Un
 [Curriculum Vitae]({{ BASE_PATH }}/assets/BlackCV.pdf)
 
 <a href="https://github.com/michael-black">
-    <img src="../pages/icons64/github.png"
-          title="Michael Black" alt="Michael Black"/></a>
+    <img src="../pages/icons64/github.png" width="20" height="20"/></a>
 
 
 [GitHub](https://github.com/michael-black)
