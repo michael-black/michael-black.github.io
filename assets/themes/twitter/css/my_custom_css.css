@@ -7,11 +7,11 @@ code {
 }
 
 body {
-  background-image: linear-gradient(to right, #16222A , #3A6073);
+  background-image: linear-gradient(to right, #FFFDE4 , #005AA7);
 }
 
 p {
- color: white;
+ color: black;
 }
 
 a code {
@@ -28,9 +28,10 @@ a:hover {
     text-decoration: none;
 }
 
-a img {
+/*a img {
     border: solid 2px white;
 }
+*/
 
 a:hover img {
     color: darkslateblue;
@@ -116,5 +117,5 @@ h1, h2, h3, h4 {
 }
 
 .span3 {
-  color: white
+  color: black
 }
