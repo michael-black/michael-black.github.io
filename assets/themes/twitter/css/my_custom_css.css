@@ -26,23 +26,26 @@ a {
     color: #253f94;
 }
 
-a:hover {
+/*a:hover {
     color: darkslateblue;
     background-color: #ffffff;
     text-decoration: none;
 }
+*/
 
 /*a img {
     border: solid 2px white;
 }
 */
 
+/*
 a:hover img {
     color: darkslateblue;
     background-color: #e3e4fa;
     text-decoration: none;
     border: solid 2px #e3e4fa;
 }
+*/
 
 p.center {
     text-align: center;
