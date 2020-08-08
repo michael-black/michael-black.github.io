@@ -37,7 +37,8 @@ I am a Ph.D. student in the Department of Agricultural Economics at Texas A&M Un
             <a href="mailto:mblack438@gmail.com">mblack438@gmail.com</a><br/>
             <a href="mailto:black.michael@tamu.edu">black.michael@tamu.edu</a><br/>
             479.871.0506<br/>
-            360 Agriculture and Life Sciences Building, Texas A&M University
+            360 AGLS<br/> 
+            Texas A&M University
         </div>
 
         <div class="span4">
