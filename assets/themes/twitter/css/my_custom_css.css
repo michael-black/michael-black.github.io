@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 code {
   padding: 0;
@@ -18,6 +19,7 @@ body {
 }
 
 p {
+ font-family: 'Lato', sans-serif;
  color: black;
 }
 
