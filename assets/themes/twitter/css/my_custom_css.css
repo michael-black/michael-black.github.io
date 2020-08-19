@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
 code {
   padding: 0;
@@ -14,7 +15,7 @@ code {
 }
 
 body {
-  font-family: 'Lato', monospace;
+  font-family: 'Playfair Display', serif;
   background-image: linear-gradient(to right, #BBD2C5 , #ffffff);
 }
 
@@ -79,7 +80,7 @@ td.right {
 
 
 h1, h2, h3, h4 {
-    color: black;
+    color: #30A063;
 }
 
 .danger {
