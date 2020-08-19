@@ -13,6 +13,8 @@ description: Michael's research
 #### Insights from Asynchronous Lecture Viewing Behavior  
 *Applied Economics Teaching Resources* (Forthcoming)
 
+<br/><br/><br/>
+
 ### Working Papers (available upon request)
 
 #### The value of long and short term changes in water quality  
@@ -27,6 +29,7 @@ We construct a pivoted discrete choice experiment (DCE) for farmers in a central
 (with Nishita Sinha)  
 We use a lagged-dependent fixed-effect model to estimate the causal effect of participatory groundwater management program on depth to water-table. We find that while the program led to a decrease in depth to groundwater in some areas, in absence of any incentives, the effectiveness of the intervention depends critically on the program implementing agency and strength of local groundwater institutions.
 
+<br/><br/><br/>
 
 ### Works in Progress
 
