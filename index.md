@@ -42,8 +42,8 @@ I am a Ph.D. student in the Department of Agricultural Economics at Texas A&M Un
         </div>
 
         <div class="span4">
-        <a href="../assets/self_noback.png">
-            <img src="../assets/self_noback.png"
+        <a href="../assets/mb_no_bg.png">
+            <img src="../assets/mb_no_bg.png"
                   title="Michael Black" alt="Michael Black"/></a>
         </div>
     </div>
