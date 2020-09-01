@@ -14,10 +14,13 @@ I am a Ph.D. student in the Department of Agricultural Economics at Texas A&M Un
 
 <a href="../assets/BlackCV.pdf">
     <img src="../pages/icons64/cv.png" width="40" height="40"/></a>
+
 <a href="https://github.com/michael-black">
     <img src="../pages/icons64/github.png" width="40" height="40"/></a>
+
 <a href="https://twitter.com/michae1black">
     <img src="../pages/icons64/twitter.png" width="40" height="40"/></a>
+
 <a href="https://www.youtube.com/channel/UCxDNlrqcNZ4c3yS8IN_aC7A/featured">
     <img src="../pages/icons64/youtube.png" width="40" height="40"/></a>
 
@@ -49,18 +52,19 @@ I am a Ph.D. student in the Department of Agricultural Economics at Texas A&M Un
     </div>
 </div>
 
-<!--
+
 <div class="container">
-<h4><a name="contact"></a>Some personal data viz</h4>
+<h4><a name="contact"></a>Daily new COVID cases: Brazos County</h4>
+I currently live in Brazos County, Texas. Here are the daily new cases of COVID for where I am. 
     <div class="row-fluid">
         <div class="span4">
-        <a href="../assets/hf_map.png">
-            <img src="../assets/hf_map.png"
+        <a href="../assets/brazos_dnc.png">
+            <img src="../assets/brazos_dnc.png"
                   title="Michael Black" alt="Michael Black"/></a>
         </div>
     </div>
 </div>
- -->
+ 
 
 <!--
 <div class="navbar">
