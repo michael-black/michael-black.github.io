@@ -9,21 +9,17 @@ keywords: Michael Black, economics, resource economics, environmental economics,
 
 I am a Ph.D. student in the Department of Agricultural Economics at Texas A&M University, where I specialize in environmental and resource economics. Prior to graduate studies, I was a strategy consultant with the Mahindra Group in Mumbai, India, and completed a B.S. degree in natural resource management from Cornell University in Ithaca, New York. I am originally from the Ozark mountains in northwest Arkansas.
 
+[C.V.]({{ BASE_PATH }}/assets/BlackCV.pdf)
+
 <!-- [Curriculum Vitae]({{ BASE_PATH }}/assets/BlackCV.pdf) -->
 <!-- [GitHub](https://github.com/michael-black) -->
 
-[C.V.]({{ BASE_PATH }}/assets/BlackCV.pdf)
-<img src="../pages/icons64/right-arrow.png" width="20" height="20"/>
 <a href="../assets/BlackCV.pdf">
     <img src="../pages/icons64/cv.png" width="40" height="40"/></a>
     
-[GitHub](https://github.com/michael-black)
-<img src="../pages/icons64/right-arrow.png" width="20" height="20"/>
 <a href="https://github.com/michael-black">
     <img src="../pages/icons64/github.png" width="40" height="40"/></a>
     
-[YouTube Channel](https://www.youtube.com/channel/UCxDNlrqcNZ4c3yS8IN_aC7A/featured)
-<img src="../pages/icons64/right-arrow.png" width="20" height="20"/>
 <a href="https://www.youtube.com/channel/UCxDNlrqcNZ4c3yS8IN_aC7A/featured">
     <img src="../pages/icons64/youtube.png" width="40" height="40"/></a>
     
@@ -58,9 +54,9 @@ I am a Ph.D. student in the Department of Agricultural Economics at Texas A&M Un
 
 <div class="container">
 <h4><a name="contact"></a>Daily new COVID cases: Brazos County</h4>
-I currently live in Brazos County, Texas. Here are the daily new cases of COVID for where I am. 
+Here are the daily new cases of COVID for where I am. Reproduce this for your home county using [this code](https://github.com/michael-black/COVID-tracking/blob/master/county_tracking.py). You may have to change the dates to fit your local COVID policies.
     <div class="row-fluid">
-        <div class="span4">
+        <div class="span6">
         <a href="../assets/brazos_dnc.png">
             <img src="../assets/brazos_dnc.png"
                   title="Michael Black" alt="Michael Black"/></a>
