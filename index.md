@@ -49,7 +49,7 @@ I am a Ph.D. student in the Department of Agricultural Economics at Texas A&M Un
     </div>
 </div>
 
-
+<!--
 <div class="container">
 <h4>Daily new COVID cases: Brazos County</h4>
 
@@ -65,7 +65,7 @@ Here are the daily new cases of COVID for Brazos County, home of Texas A&M.
         </div>
     </div>
 </div>
- 
+ -->
 
 <!--
 <div class="navbar">
