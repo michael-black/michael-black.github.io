@@ -12,18 +12,21 @@ I am a Ph.D. student in the Department of Agricultural Economics at Texas A&M Un
 <!-- [Curriculum Vitae]({{ BASE_PATH }}/assets/BlackCV.pdf) -->
 <!-- [GitHub](https://github.com/michael-black) -->
 
+[C.V.]({{ BASE_PATH }}/assets/BlackCV.pdf)
+<img src="../pages/icons64/right-arrow.png" width="20" height="20"/>
 <a href="../assets/BlackCV.pdf">
     <img src="../pages/icons64/cv.png" width="40" height="40"/></a>
-    <img src="../pages/icons64/left-arrow.png" width="20" height="20"/>
-    [C.V.]({{ BASE_PATH }}/assets/BlackCV.pdf)
-
+    
+[GitHub](https://github.com/michael-black)
+<img src="../pages/icons64/right-arrow.png" width="20" height="20"/>
 <a href="https://github.com/michael-black">
     <img src="../pages/icons64/github.png" width="40" height="40"/></a>
-    [GitHub](https://github.com/michael-black)
-
+    
+[YouTube Channel](https://www.youtube.com/channel/UCxDNlrqcNZ4c3yS8IN_aC7A/featured)
+<img src="../pages/icons64/right-arrow.png" width="20" height="20"/>
 <a href="https://www.youtube.com/channel/UCxDNlrqcNZ4c3yS8IN_aC7A/featured">
     <img src="../pages/icons64/youtube.png" width="40" height="40"/></a>
-    [My YouTube Channel](https://www.youtube.com/channel/UCxDNlrqcNZ4c3yS8IN_aC7A/featured)
+    
 
 <br/>
 
