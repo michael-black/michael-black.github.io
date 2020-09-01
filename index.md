@@ -51,12 +51,9 @@ I am a Ph.D. student in the Department of Agricultural Economics at Texas A&M Un
 
 
 <div class="container">
-<h4><a name="contact"></a>Daily new COVID cases: Brazos County</h4>
-Here are the daily new cases of COVID for where I am. Reproduce this for your home county using 
+<h4>Daily new COVID cases: Brazos County</h4>
 
-[this code](https://github.com/michael-black/COVID-tracking/blob/master/county_tracking.py). 
-
-You may have to change the dates to fit your local COVID policies.
+Here are the daily new cases of COVID for where I am. Reproduce this for your home county using [this code](https://github.com/michael-black/COVID-tracking/blob/master/county_tracking.py). You may have to change the dates to fit your local COVID policies.
 
 
     <div class="row-fluid">
