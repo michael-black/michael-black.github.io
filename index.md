@@ -16,6 +16,8 @@ I am a Ph.D. student in the Department of Agricultural Economics at Texas A&M Un
 
 <a href="../assets/BlackCV.pdf">
     <img src="../pages/icons64/cv.png" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/michaelblack438/">
+    <img src="../pages/icons64/linkedin.png" width="40" height="40"/></a>
 <a href="https://github.com/michael-black">
     <img src="../pages/icons64/github.png" width="40" height="40"/></a>
 <a href="https://www.youtube.com/channel/UCxDNlrqcNZ4c3yS8IN_aC7A/featured">
