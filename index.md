@@ -11,7 +11,7 @@ I am a Ph.D. student in the Department of Agricultural Economics at Texas A&M Un
 
 [Academic C.V.]({{ BASE_PATH }}/assets/BlackCV.pdf)
 
-<!-- [Private Sector Resume]({{ BASE_PATH }}/assets/Black_res.pdf) -->
+[Private Sector Resume]({{ BASE_PATH }}/assets/Black_res.pdf) 
 
 <!-- [Curriculum Vitae]({{ BASE_PATH }}/assets/BlackCV.pdf) -->
 <!-- [GitHub](https://github.com/michael-black) -->
