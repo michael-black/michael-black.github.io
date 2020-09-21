@@ -48,9 +48,7 @@ I am a Ph.D. student in the Department of Agricultural Economics at Texas A&M Un
 <a href="https://www.youtube.com/channel/UCxDNlrqcNZ4c3yS8IN_aC7A/featured">
     <img src="../pages/icons64/youtube.png" width="40" height="40"/></a>
 
-</br>
 
-<h4>Vibe</h4>
 
 Currently vibing to:
 
