@@ -5,6 +5,28 @@ description: Michael Black is a PhD candidate at Texas A&M University.
 keywords: Michael Black, economics, resource economics, environmental economics, non-market valuation
 ---
 
+<div class="container">
+<h4><a name="contact"></a>Contact</h4>
+
+    <div class="row-fluid">
+        <div class="span3">
+            Michael Black<br/>
+            <a href="mailto:mblack438@gmail.com">mblack438@gmail.com</a><br/>
+            <a href="mailto:black.michael@tamu.edu">black.michael@tamu.edu</a><br/>
+            479.871.0506<br/>
+            360 AGLS<br/> 
+            Texas A&M University
+        </div>
+
+        <div class="span4">
+        <a href="../assets/mb_no_bg.png">
+            <img src="../assets/mb_no_bg.png"
+                  title="Michael Black" alt="Michael Black"/></a>
+        </div>
+    </div>
+</div>
+
+
 <h4>About</h4>
 
 I am a Ph.D. student in the Department of Agricultural Economics at Texas A&M University, where I specialize in environmental and resource economics. Prior to graduate studies, I was a strategy consultant with the Mahindra Group in Mumbai, India, and completed a B.S. degree in natural resource management from Cornell University in Ithaca, New York. I am originally from the Ozark mountains in northwest Arkansas.
@@ -27,36 +49,18 @@ I am a Ph.D. student in the Department of Agricultural Economics at Texas A&M Un
     <img src="../pages/icons64/youtube.png" width="40" height="40"/></a>
 
 
-
+<!--
 <iframe src="https://open.spotify.com/embed/track/5DPNLHoisZSIInV23TJ49P" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>    
-    
+    --->
 
-<br/>
+
 
 
 ---
 
 
-<div class="container">
-<h4><a name="contact"></a>Contact</h4>
 
-    <div class="row-fluid">
-        <div class="span3">
-            Michael Black<br/>
-            <a href="mailto:mblack438@gmail.com">mblack438@gmail.com</a><br/>
-            <a href="mailto:black.michael@tamu.edu">black.michael@tamu.edu</a><br/>
-            479.871.0506<br/>
-            360 AGLS<br/> 
-            Texas A&M University
-        </div>
 
-        <div class="span4">
-        <a href="../assets/mb_no_bg.png">
-            <img src="../assets/mb_no_bg.png"
-                  title="Michael Black" alt="Michael Black"/></a>
-        </div>
-    </div>
-</div>
 
 <!--
 <div class="container">
