@@ -51,9 +51,10 @@ I am a Ph.D. student in the Department of Agricultural Economics at Texas A&M Un
 
 <h4>Vibing</h4>
 
-<iframe src="https://open.spotify.com/embed/track/3lYtBbtMp9GR14COnB817E" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/0bdNktKwMzf6d4V5BNK1KN" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <iframe src="https://open.spotify.com/embed/track/5TmUCweI7JXVWxn1zHJzyN" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+<iframe src="https://open.spotify.com/embed/track/6bEJMJdG4b05O610YMMIAA" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 
