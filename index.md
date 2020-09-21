@@ -48,13 +48,17 @@ I am a Ph.D. student in the Department of Agricultural Economics at Texas A&M Un
 <a href="https://www.youtube.com/channel/UCxDNlrqcNZ4c3yS8IN_aC7A/featured">
     <img src="../pages/icons64/youtube.png" width="40" height="40"/></a>
 
+</br>
 
-<h4>Vibing</h4>
+<h4>Vibe</h4>
+
+Currently vibing to:
 
 <iframe src="https://open.spotify.com/embed/track/0bdNktKwMzf6d4V5BNK1KN" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <iframe src="https://open.spotify.com/embed/track/5TmUCweI7JXVWxn1zHJzyN" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <iframe src="https://open.spotify.com/embed/track/6bEJMJdG4b05O610YMMIAA" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/3zxklD2EGecZre9MjEEvIU" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 
