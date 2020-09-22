@@ -10,12 +10,9 @@ keywords: Michael Black, economics, resource economics, environmental economics,
 
     <div class="row-fluid">
         <div class="span3">
-            Michael Black<br/>
             <a href="mailto:mblack438@gmail.com">mblack438@gmail.com</a><br/>
             <a href="mailto:black.michael@tamu.edu">black.michael@tamu.edu</a><br/>
             479.871.0506<br/>
-            360 AGLS<br/> 
-            Texas A&M University
         </div>
 
         <div class="span4">
@@ -29,7 +26,7 @@ keywords: Michael Black, economics, resource economics, environmental economics,
 
 <h4>About</h4>
 
-I am a Ph.D. student in the Department of Agricultural Economics at Texas A&M University, where I specialize in environmental and resource economics. Prior to graduate studies, I was a strategy consultant with the Mahindra Group in Mumbai, India, and completed a B.S. degree in natural resource management from Cornell University in Ithaca, New York. I am originally from the Ozark mountains in northwest Arkansas.
+I am a Ph.D. candidate in the Department of Agricultural Economics at Texas A&M University. I am a trained applied micro-economist with specializations in choice and causal modeling. My dissertation is focused on non-market valuation, which is a way to use observed behavior to estimate the "price" of things that are not traded in traditional markets. Prior to graduate studies, I was a strategy consultant with the Mahindra Group in Mumbai, India, and completed a B.S. degree in natural resource management from Cornell University in Ithaca, New York. I am originally from the Ozark mountains in northwest Arkansas.
 
 [Academic C.V.]({{ BASE_PATH }}/assets/BlackCV.pdf)
 
