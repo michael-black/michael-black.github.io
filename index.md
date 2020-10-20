@@ -50,7 +50,7 @@ I am a Ph.D. candidate in the Department of Agricultural Economics at Texas A&M 
 Currently vibing to:
 
 <iframe src="https://open.spotify.com/embed/track/66kGihUqR3kRZLxtFBSobF" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-<iframe src="https://open.spotify.com/embed/track/5TmUCweI7JXVWxn1zHJzyN" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/album/1GffS0679L8raZfd6jN9Zo" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <iframe src="https://open.spotify.com/embed/track/6bEJMJdG4b05O610YMMIAA" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <iframe src="https://open.spotify.com/embed/track/3zxklD2EGecZre9MjEEvIU" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
