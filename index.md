@@ -26,7 +26,7 @@ keywords: Michael Black, economics, resource economics, environmental economics,
 
 <h4>About</h4>
 
-I am a Ph.D. candidate in the Department of Agricultural Economics at Texas A&M University. I am a trained applied micro-economist with specializations in choice and causal modeling. My dissertation is focused on non-market valuation, which is a way to use observed behavior to estimate the "price" of things that are not traded in traditional markets. Prior to graduate studies, I was a strategy consultant with the Mahindra Group in Mumbai, India, and completed a B.S. degree in natural resource management from Cornell University in Ithaca, New York. I am originally from the Ozark mountains in northwest Arkansas.
+I am a Ph.D. candidate in the Department of Agricultural Economics at Texas A&M University. I am an applied micro-economist with specializations in choice and causal modeling. My dissertation is focused on non-market valuation, which is a way to use observed behavior to estimate the "price" of things that are not traded in traditional markets. Prior to graduate studies, I was a strategy consultant with the Mahindra Group in Mumbai, India, and completed a B.S. degree in natural resource management from Cornell University in Ithaca, New York. I am originally from the Ozark mountains in northwest Arkansas.
 
 [Academic C.V.]({{ BASE_PATH }}/assets/BlackCV.pdf)
 
