@@ -28,9 +28,14 @@ keywords: Michael Black, economics, resource economics, environmental economics,
 
 I am a Ph.D. candidate in the Department of Agricultural Economics at Texas A&M University. I am an applied micro-economist with specializations in choice and causal modeling. My dissertation is focused on non-market valuation, which is a way to use observed behavior to estimate the "price" of things that are not traded in traditional markets. Prior to graduate studies, I was a strategy consultant with the Mahindra Group in Mumbai, India, and completed a B.S. degree in natural resource management from Cornell University in Ithaca, New York. I am originally from the Ozark mountains in northwest Arkansas.
 
-[Academic C.V.]({{ BASE_PATH }}/assets/BlackCV.pdf)
+<a href="https://www.linkedin.com/in/michaelblack438/">
+    <img src="../pages/icons64/linkedin.png" width="40" height="40"/></a>
+[Resume]({{ BASE_PATH }}/assets/Black_Michael_Resume.pdf) 
 
-[Private Sector Resume]({{ BASE_PATH }}/assets/Black_res.pdf) 
+<a href="https://www.linkedin.com/in/michaelblack438/">
+    <img src="../pages/icons64/linkedin.png" width="40" height="40"/></a>
+[CV]({{ BASE_PATH }}/assets/BlackCV.pdf)
+
 
 <!-- [Curriculum Vitae]({{ BASE_PATH }}/assets/BlackCV.pdf) -->
 <!-- [GitHub](https://github.com/michael-black) -->
@@ -47,7 +52,7 @@ I am a Ph.D. candidate in the Department of Agricultural Economics at Texas A&M 
 
 
 
-Currently vibing to:
+<!-- Currently vibing to: -->
 
 <!-- <iframe src="https://open.spotify.com/embed/track/66kGihUqR3kRZLxtFBSobF" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <iframe src="https://open.spotify.com/embed/album/1GffS0679L8raZfd6jN9Zo" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
@@ -56,8 +61,10 @@ Currently vibing to:
 <iframe src="https://open.spotify.com/embed/track/3zxklD2EGecZre9MjEEvIU" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
  -->
 
-<iframe src="https://open.spotify.com/embed/playlist/37i9dQZEVXcJtv9dlk4pq4" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+<!-- THIS IS THE DISCOVER WEEKLY LIST: -->
+<!-- <iframe src="https://open.spotify.com/embed/playlist/37i9dQZEVXcJtv9dlk4pq4" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+ -->
 
 
 ---
