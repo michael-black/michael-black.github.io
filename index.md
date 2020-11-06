@@ -12,7 +12,7 @@ keywords: Michael Black, economics, resource economics, environmental economics,
         <div class="span3">
             <a href="mailto:mblack438@gmail.com">mblack438@gmail.com</a><br/>
             <a href="mailto:black.michael@tamu.edu">black.michael@tamu.edu</a><br/>
-            479.871.0506<br/>
+            479.871.0506<br/><br/>
             <img src="../pages/icons64/file.png" width="40" height="40"/>
 			<a href="../assets/Black_Michael_Resume.pdf">Resume</a><br/>
             <img src="../pages/icons64/file.png" width="40" height="40"/>
@@ -44,9 +44,13 @@ keywords: Michael Black, economics, resource economics, environmental economics,
 	<a href="https://www.youtube.com/channel/UCxDNlrqcNZ4c3yS8IN_aC7A/featured">
 	    <img src="../pages/icons64/youtube.png" width="40" height="40"/></a> <br/>
 	<div class="row-fluid">
-		<div class="span7; text-align:justify">
+		<div class="span7">
 			I am a Ph.D. candidate in the Department of Agricultural Economics at Texas A&M University. I am an applied micro-economist with specializations in choice and causal modeling. My choice modeling work uses observed or elicited choices from consumers to build demand systems, from which we can learn a lot about the value of products or their attributes. My causal modeling work leverages quasi-experimental data to understand the effect of policies that were not randomly rolled out. 
+			<br/>
+			<br/>
 			Prior to graduate studies, I was a strategy consultant with the Mahindra Group in Mumbai, India, and completed a B.S. degree in natural resource management from Cornell University in Ithaca, New York. I am originally from the Ozark mountains in northwest Arkansas.
+			<br/>
+			<br/>
 			I am looking for data science/economist/analyst positions in industry. Please don't hesitate to reach out. These days, I'm always available for a virtual chat.
 		</div>
 	</div>
