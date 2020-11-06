@@ -14,6 +14,7 @@ keywords: Michael Black, economics, resource economics, environmental economics,
             <a href="mailto:black.michael@tamu.edu">black.michael@tamu.edu</a><br/>
             479.871.0506<br/>
             <img src="../pages/icons64/file.png" width="40" height="40"/>
+			<a href="({{ BASE_PATH }}/assets/BlackCV.pdf)" </a>
 			[Resume]({{ BASE_PATH }}/assets/Black_Michael_Resume.pdf) <br/>
 			<img src="../pages/icons64/file.png" width="40" height="40"/>
 			[CV]({{ BASE_PATH }}/assets/BlackCV.pdf)<br/>
