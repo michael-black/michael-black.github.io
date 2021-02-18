@@ -50,9 +50,6 @@ keywords: Michael Black, economics, resource economics, environmental economics,
 			<br/>
 			<br/>
 			Prior to graduate studies, I was a strategy consultant with the Mahindra Group in Mumbai, India, and completed a B.S. degree in natural resource management from Cornell University in Ithaca, New York. I am originally from the Ozark mountains in northwest Arkansas.
-			<br/>
-			<br/>
-			I am looking for data science/economist/analyst positions in industry. Please don't hesitate to reach out. These days, I'm always available for a virtual chat.
 		</div>
 	</div>
 </div>
