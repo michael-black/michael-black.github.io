@@ -19,8 +19,8 @@ keywords: Michael Black, economics, non-market valuation, policy analysis, envir
         </div>
 
         <div class="span4">
-        <a href="../assets/mb_no_bg.png">
-            <img src="../assets/mb_no_bg.png"
+        <a href="../assets/mb_wave_in_nz.png">
+            <img src="../assets/mb_wave_in_nz.png"
                   title="Michael Black" alt="Michael Black"/></a>
         </div>
     </div>
