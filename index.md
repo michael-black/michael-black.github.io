@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Michael Black
-description: Michael Black is a PhD candidate at Texas A&M University.
-keywords: Michael Black, economics, resource economics, environmental economics, non-market valuation
+description: Michael Black is an economist with the U.S. Food & Drug Administration.
+keywords: Michael Black, economics, non-market valuation, policy analysis, environmental economics
 ---
 
 <div class="container">
@@ -45,7 +45,10 @@ keywords: Michael Black, economics, resource economics, environmental economics,
 	<div class="row-fluid">
 		<div class="span7">
 			<br/>
-            Greetings! I am currently in limbo between successfully defending my PhD and starting a new role as a federal economist. Stay tuned for more details!
+            Hello! I am an economist with the U.S. Food & Drug Administration. Any opinion or work posted here is my own and not necessarily a reflection of the position of the FDA. 
+            <br/>
+            <br/>
+            I am passionate about open source data, equitable policy making, and biking. Good data analysis is transparent, replicable, and open. Good policy making acknowleges the existence and magnitude of inequity and seeks to protect the health, wellness, and security of people and works to create a better future with fewer inequities. There is a lot to do.
 			<!-- I am a Ph.D. candidate in the Department of Agricultural Economics at Texas A&M University. I am an applied micro-economist with specializations in choice and causal modeling. My choice modeling work uses observed or elicited choices from consumers to build demand systems, from which we can learn a lot about the value of products or their attributes. My causal modeling work leverages quasi-experimental data to understand the effect of policies that were not randomly rolled out. 
 			<br/>
 			<br/>
