@@ -14,8 +14,8 @@ keywords: Michael Black, economics, non-market valuation, policy analysis, envir
             479.871.0506<br/><br/>
             <img src="../pages/icons64/file.png" width="40" height="40"/>
 			<a href="../assets/Black_Michael_Resume.pdf">Resume</a><br/>
-            <img src="../pages/icons64/file.png" width="40" height="40"/>
-			<a href="../assets/BlackCV.pdf">CV</a><br/>
+            <!-- <img src="../pages/icons64/file.png" width="40" height="40"/>
+			<a href="../assets/BlackCV.pdf">CV</a><br/> -->
         </div>
 
         <div class="span4">
